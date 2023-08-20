@@ -98,5 +98,76 @@
         "question": "What is Phishing?",
         "options": ["A type of malware.", "A type of firewall.", "A type of antivirus software.", "A fraudulent practice of sending emails appearing to be from reputable sources to steal sensitive information."],
         "answers": [3]
+    },
+    {
+        "question": "What is a packet-filtering firewall?",
+        "options": ["A firewall that filters based on content type.", "A firewall that examines source and destination IP addresses.", "A firewall that operates on Layer 7 of the OSI model.", "A firewall that blocks all traffic."],
+        "answers": [1]
+    },
+    {
+        "question": "What is the difference between stateful and stateless firewalls?",
+        "options": ["Stateful firewalls remember the state of network connections, while stateless firewalls do not.", "Stateful firewalls block all traffic, while stateless firewalls allow all traffic.", "Stateful firewalls operate on Layer 7, while stateless firewalls operate on Layer 3.", "There is no difference."],
+        "answers": [0]
+    },
+    {
+        "question": "How does a firewall function?",
+        "options": ["By increasing internet speed.", "By filtering traffic based on a set of rules.", "By encrypting all data.", "By acting as a VPN."],
+        "answers": [1]
+    },
+    {
+        "question": "Which of the following is NOT a type of firewall?",
+        "options": ["Packet filtering firewalls", "Application-level gateway", "Circuit-level gateway", "Traffic-level gateway"],
+        "answers": [3]
+    },
+    {
+        "question": "Firewalls operate in which OSI layers?",
+        "options": ["Layer 1 and Layer 2", "Layer 3 and Layer 4", "Layer 5 and Layer 6", "Layer 3, Layer 4, and Layer 7"],
+        "answers": [3]
+    },
+    {
+        "question": "What is the function of a transparent firewall?",
+        "options": ["To encrypt all traffic.", "To forward Ethernet frames based on destination mac-address.", "To block all incoming traffic.", "To act as a VPN."],
+        "answers": [1]
+    },
+    {
+        "question": "What is Policy NAT?",
+        "options": ["Network Address Termination", "Network Access Token", "Policy Network Address Translation", "Policy Network Access Token"],
+        "answers": [2]
+    },
+    {
+        "question": "What is the default timeout value for TCP sessions in most firewalls?",
+        "options": ["2 minutes", "2 seconds", "60 minutes", "30 minutes"],
+        "answers": [2]
+    },
+    {
+        "question": "What is a VPN in the context of firewall security?",
+        "options": ["Virtual Protocol Network", "Virtual Private Network", "Virtual Packet Notation", "Virtual Port Network"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of the following is NOT a function of a firewall?",
+        "options": ["Recognizing harmful traffic", "Encrypting all data", "Blocking traffic from specific IP addresses", "Filtering traffic based on rules"],
+        "answers": [1]
+    },
+    {
+        "question": "What is the main purpose of a stateful firewall?",
+        "options": ["To block all traffic.", "To remember the state of network connections.", "To operate only on Layer 7 of the OSI model.", "To act as a router."],
+        "answers": [1]
+    },
+    {
+        "question": "Which of the following is a benefit of using a firewall?",
+        "options": ["Increasing the speed of the internet connection.", "Allowing all incoming and outgoing traffic.", "Protecting sensitive enterprise systems.", "Serving as a database server."],
+        "answers": [2]
+    },
+    {
+        "question": "What is the primary difference between a hardware-based firewall and a software-based firewall?",
+        "options": ["Hardware-based firewalls are always stateful, while software-based firewalls are stateless.", "Hardware-based firewalls are physical devices, while software-based firewalls are installed on an operating system.", "There is no difference.", "Software-based firewalls are always faster than hardware-based firewalls."],
+        "answers": [1]
+    },
+    {
+        "question": "Which of the following is NOT a delivery method for firewalls?",
+        "options": ["Hardware-based firewalls", "Software-based firewalls", "Cloud/hosted firewalls", "Protocol-based firewalls"],
+        "answers": [3]
     }
 ]
+
