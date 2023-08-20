@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Define the term 'protocol' in the context of network communication.",
+        "options": ["A set of rules governing all aspects of information communication.", "A type of encryption method.", "A type of network device.", "A programming language."],
+        "answers": [0]
+    },
+    {
+        "question": "Which of the following is NOT a layer of OSI?",
+        "options": ["Data Link layer", "Transport layer", "Browser layer", "Application layer"],
+        "answers": [2]
+    },
+    {
+        "question": "What does RIP stand for in networking?",
+        "options": ["Routing Information Protocol", "Remote Internet Protocol", "Router Interface Protocol", "Routing Interface Procedure"],
+        "answers": [0]
+    },
+    {
+        "question": "Which of the following factors does NOT affect the performance of a network?",
+        "options": ["Type of transmission media", "Software", "Number of users", "Color of the network cables"],
+        "answers": [3]
+    },
+    {
+        "question": "What is the difference between a wired LAN and a wireless LAN?",
+        "options": ["Wired LAN uses Ethernet devices like router, hub, and switch, while wireless LAN uses devices like MiFi router and WLAN router.", "Wired LAN is always faster than wireless LAN.", "Wired LAN uses radio waves, while wireless LAN uses physical cables.", "There is no difference; both terms can be used interchangeably."],
+        "answers": [0]
+    },
+    {
+        "question": "Which of the following is NOT a user support layer?",
+        "options": ["Application layer", "Presentation layer", "Session layer", "Physical layer"],
+        "answers": [3]
+    },
+    {
+        "question": "What does TCP stand for?",
+        "options": ["Transmission Control Protocol", "Transfer Communication Protocol", "Total Communication Protocol", "Terminal Control Protocol"],
+        "answers": [0]
+    },
+    {
+        "question": "Which of the following is NOT an error in data communication over a network?",
+        "options": ["Single bit error", "Burst error", "Double click error", "Transmission error"],
+        "answers": [2]
+    },
+    {
+        "question": "What is ALOHA?",
+        "options": ["A greeting in Hawaiian language.", "A type of encryption method.", "A system for coordinating and arbitrating access to a shared communication network channel.", "A type of network cable."],
+        "answers": [2]
+    },
+    {
+        "question": "Which of the following protocols does NOT use the application layer?",
+        "options": ["SMTP", "DNS", "HTTP", "DHCP"],
+        "answers": [3]
+    },
+    {
+        "question": "What is the meaning of AAA in network security?",
+        "options": ["Authentication, Authorization, and Accounting", "Application, Access, and Authentication", "Authorization, Application, and Access", "Accounting, Application, and Authentication"],
+        "answers": [0]
+    },
+    {
+        "question": "Which of the following is NOT a method of user authentication?",
+        "options": ["Biometric Authentication", "Password Authentication Protocol (PAP)", "Authentication Token", "Authentication Cookie"],
+        "answers": [3]
+    },
+    {
+        "question": "What does IPS stand for in network security?",
+        "options": ["Internet Protocol Security", "Intrusion Prevention System", "Internal Protection Service", "Integrated Protocol System"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of the following is NOT a consequence of a network security attack for an organization?",
+        "options": ["Loss of sensitive information", "Increase in stock prices", "Loss of reputation", "Loss of value with shareholders"],
+        "answers": [1]
+    },
+    {
+        "question": "What are Administrator Privileges used for?",
+        "options": ["To play video games on the network.", "To grant permissions to users to create, delete, and modify items and settings.", "To monitor internet browsing history of employees.", "To enhance the speed of the network."],
+        "answers": [1]
+    },
+    {
+        "question": "What is the CIA Triad in network security?",
+        "options": ["Confidentiality, Integrity, and Availability", "Control, Integrity, and Access", "Confidentiality, Identity, and Authorization", "Control, Identity, and Availability"],
+        "answers": [0]
+    },
+    {
+        "question": "What are the benefits of a firewall?",
+        "options": ["Monitors network traffic, Enhances Privacy, Stops Spyware, Prevents hacking, Inhibits virus attacks", "Increases internet speed, Enhances Privacy, Provides VPN services, Prevents hacking, Monitors user activity", "Monitors network traffic, Provides email services, Stops Spyware, Provides cloud storage, Inhibits virus attacks", "Enhances Privacy, Provides email services, Stops Spyware, Provides VPN services, Inhibits virus attacks"],
+        "answers": [0]
+    },
+    {
+        "question": "What is a DDoS attack?",
+        "options": ["A type of malware.", "A cyber-attack in which the central server is continuously flooded with frequent data requests.", "A type of firewall.", "A network protocol."],
+        "answers": [1]
+    },
+    {
+        "question": "What is Ransomware?",
+        "options": ["A type of antivirus software.", "A type of firewall.", "Malicious software that blocks access to data until a ransom is paid.", "A network protocol."],
+        "answers": [2]
+    },
+    {
+        "question": "What is Phishing?",
+        "options": ["A type of malware.", "A type of firewall.", "A type of antivirus software.", "A fraudulent practice of sending emails appearing to be from reputable sources to steal sensitive information."],
+        "answers": [3]
+    }
+]
